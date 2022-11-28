@@ -1,0 +1,27 @@
+
+
+.App {
+  margin: 20px;
+  padding: 10px;
+  text-align: center;
+}
+
+button.img-btn{
+  border-radius: 10px;
+  margin: 20px;
+  cursor: pointer;
+}
+
+button.img-btn:active{
+  background-color: white;
+}
+
+img{
+  border-radius: 15%;
+}
+
+p{
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+}

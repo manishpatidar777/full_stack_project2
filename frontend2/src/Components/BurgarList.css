@@ -1,0 +1,31 @@
+/* *{
+    text-align: center;
+} */
+
+.burgar-1 {
+    display: grid;
+    padding: 3px;
+    grid-template-columns: 500px 1fr;
+    gap: 0.3em;
+    align-items: center;
+    max-width: 700px;
+    margin: 0 auto 5px;
+    background-color: rgb(229, 226, 226);
+    border-radius: 5px;
+  }
+  
+ .dd-1, .dt-1{
+    text-align: left;
+  }
+
+button.order-btn{
+    background-color: red;
+    color: white;
+    border-radius: 3px;
+    padding: 3px;
+    margin: 5px 0; 
+}
+
+h2{
+  text-align: center;
+}
